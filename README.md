@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luan CMA!</h1>
 <h3 align="center">Frontend Developer From Brazil living in Portugal</h3>
 
+[![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luancma)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on [Carlsberg](https://www.carlsberg.com/pt-pt/)
 
 - 🌱 I’m currently learning **Solid.JS, React-Native and GraphQL**
