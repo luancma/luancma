@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luan CMA!</h1>
 <h3 align="center">Frontend Developer From Brazil living in Portugal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luancma&label=Profile%20views&color=0e75b6&style=flat" alt="luancma" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luancma" alt="luancma" /></a> </p>
-
 - 🔭 I’m currently working on [Carlsberg](https://www.carlsberg.com/pt-pt/)
 
 - 🌱 I’m currently learning **Solid.JS, React-Native and GraphQL**
