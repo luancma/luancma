@@ -13,7 +13,7 @@
 
 [comment]: < - 📄 Know about my experiences [future](future) >
 
-- ⚡ Fun fact **Unfornutally I'm a League of Legends player **
+- ⚡ Fun fact **The worst League of Legends player **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
