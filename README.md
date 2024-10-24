@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luan CMA!</h1>
 <h3 align="center">Frontend Developer From Brazil living in Portugal</h3>
 
-- 🔭 I’m currently working on [Carlsberg](https://www.carlsberg.com/pt-pt/)
+- 🔭 I’m currently working on [Loblaw Digital]([https://www.carlsberg.com/pt-pt/](https://www.loblawdigital.co/))
 
 - 🌱 I’m currently learning **Solid.JS, React-Native and GraphQL**
 
